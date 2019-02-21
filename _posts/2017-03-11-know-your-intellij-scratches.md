@@ -51,8 +51,8 @@ The video below presents the usage of scratch files which includes:
 * formatting scratch files,
 * listing all available scratch files.
 
-<video width="450" controls>
-    <source src="/files/scratches/ScratchFiles.mp4" type="video/mp4">
+<video width="500" controls>
+    <source src="/files/blog/know-your-intellij-scratches/ScratchFiles.mp4" type="video/mp4">
 </video>
 
 
@@ -71,8 +71,8 @@ The video below presents the usage of scratch buffers which includes:
 * creating/modifying scratch buffers,
 * listing all available scratch buffers and scratch files.
 
-<video width="450" controls>
-    <source src="/files/scratches/ScratchBuffer.mp4" type="video/mp4">
+<video width="500" controls>
+    <source src="/files/blog/know-your-intellij-scratches/ScratchBuffer.mp4" type="video/mp4">
 </video>
 
 More information related to scratch files/buffers can be found
