@@ -51,6 +51,11 @@ The video below presents the usage of scratch files which includes:
 * formatting scratch files,
 * listing all available scratch files.
 
+<video width="450" controls>
+    <source src="/files/scratches/ScratchFiles.mp4" type="video/mp4">
+</video>
+
+
 ## Scratch buffers
 Scratch buffers are just simple .txt files (the extension is not visible).
 They are not language specific files, so one of the best option to use
@@ -65,6 +70,10 @@ No need to get my sight off the IDE.
 The video below presents the usage of scratch buffers which includes:
 * creating/modifying scratch buffers,
 * listing all available scratch buffers and scratch files.
+
+<video width="450" controls>
+    <source src="/files/scratches/ScratchBuffer.mp4" type="video/mp4">
+</video>
 
 More information related to scratch files/buffers can be found
 at IntelliJ IDEA help page.
