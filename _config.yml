@@ -15,6 +15,7 @@ url: "https://kamilkubacki.com" # the base hostname & protocol for your site
 permalink: /:year/:title
 twitter_username: kamilkubacki
 github_username: natif
+linkedin_username: kamilkubacki
 blog_url: /blog
 public_speeches_url: /public-speeches
 
