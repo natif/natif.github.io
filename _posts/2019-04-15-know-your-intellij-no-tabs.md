@@ -8,21 +8,22 @@ tags: ide java
 
 In the next post of Know Your IntelliJ series, I would like to help you
 with getting rid of navigation tabs' hell. By navigation tabs' hell I mean
-a situation in which we get multiple files' tabs of opened and showing up at
+a situation in which we get multiple files' tabs opened and showing up at
 editor's screen. The image below presents the sample screen with multiple
 files' tabs opened:
 
 <img src="/images/blog/posts/know-your-intellij-no-tabs/tabs-view.png" alt="tabs-view" />
 
-This is caused by two factors: default IntelliJ settings and our usage.
+This is caused by two factors: default IntelliJ's configuration
+and our usage.
 
 ### Default navigation with files' tabs
 By default, when we get our fresh IntelliJ installed, each file we open
 to view is being put inside tabs' list in the editor's view.
-Because of that, when we work in big projects where we need to open
+Because of that, when we work in big projects in which we need to open
 multiple class files to understand whole flow of data processing,
-we end up with much worse situation than at the first image. Moreover,
-navigating through the tabs of opened files can often be
+we end up with much worse situation than presented at the first image.
+Moreover, navigating through the tabs of opened files can often be
 disturbing and annoying. For me, it was affecting my productivity even
 though, I was using shortkeys to jump from each tab to the other
 (to get to the recently viewed files).
@@ -32,11 +33,11 @@ the files' tabs list from my IntelliJ.
 
 ### Disabling the files' tabs
 Let's get the fast walkthrough how to disable files' tabs displaying
-in your editor's window and how to navigate without it.
+in your editor's window and how to navigate without them.
 
-First of all, we start by opening Settings windows (`CMD and ,` on Mac OS)
-and we type `placement` in the search box. If you followed the instruction
-you should see the following image:
+First of all, we start by opening `Settings` window (`CMD and ,` on Mac OS)
+and we type `placement` in the search box. If you followed
+the instructions you should be able to see the following image:
 
 <img src="/images/blog/posts/know-your-intellij-no-tabs/settings-tabson.png" alt="no-tabs-view" />
 
@@ -68,10 +69,10 @@ hit on your Mac.
 ### Summary
 
 Proper and fast navigation is a key benefit we get from our IDE.
-Sometimes though, we can apply the changes to default IDE configuration
-to get your productivity up a bit. One of such examples is replacing the
+Sometimes though, we should apply changes to default IDE's configuration
+to get our productivity up a bit. One of such examples is replacing the
 files' tabs displaying in your editor's view with `Recent files` window
-and clear editor in IntelliJ.
+and no tabs view as this blog post was trying to describe.
 
-If you enjoyed this post, please also check the other ones from the
-Know Your IntelliJ series.
+If you enjoyed this post, please check the other ones from the
+Know Your IntelliJ series on my blog.
