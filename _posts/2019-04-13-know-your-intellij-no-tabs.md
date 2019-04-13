@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Know Your IntelliJ – No tabs"
-date:   2019-04-15 06:00:00 +0200
+date:   2019-04-13 06:00:00 +0200
 author: "Kamil Kubacki"
 tags: ide java
 ---
