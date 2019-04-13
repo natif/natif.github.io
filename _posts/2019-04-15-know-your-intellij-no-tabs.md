@@ -16,7 +16,7 @@ files' tabs opened:
 
 This is caused by two factors: default IntelliJ settings and our usage.
 
-### Default navigation with tabs
+### Default navigation with files' tabs
 By default, when we get our fresh IntelliJ installed, each file we open
 to view is being put inside tabs' list in the editor's view.
 Because of that, when we work in big projects where we need to open
@@ -30,7 +30,7 @@ though, I was using shortkeys to jump from each tab to the other
 Finally, I found a better way to overcome this issue. I totally removed
 the files' tabs list from my IntelliJ.
 
-### Navigation without tabs
+### Disabling the files' tabs
 Let's get the fast walkthrough how to disable files' tabs displaying
 in your editor's window and how to navigate without it.
 
@@ -53,8 +53,7 @@ after the changes are completed.
 
 <img src="/images/blog/posts/know-your-intellij-no-tabs/no-tabs-view.png" alt="no-tabs-view" />
 
-**Now, the main question - how can you navigate through the recently
-opened files?**
+### How to view the recent files?
 
 The answer is `CMD and E` on Mac OS, which presents the files we recently
 viewed and/or edited. With that shortkey, it is much easier to keep the
@@ -68,3 +67,11 @@ hit on your Mac.
 
 ### Summary
 
+Proper and fast navigation is a key benefit we get from our IDE.
+Sometimes though, we can apply the changes to default IDE configuration
+to get your productivity up a bit. One of such examples is replacing the
+files' tabs displaying in your editor's view with `Recent files` window
+and clear editor in IntelliJ.
+
+If you enjoyed this post, please also check the other ones from the
+Know Your IntelliJ series.
