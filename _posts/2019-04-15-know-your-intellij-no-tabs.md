@@ -14,8 +14,8 @@ files' tabs opened:
 
 <img src="/images/blog/posts/know-your-intellij-no-tabs/tabs-view.png" alt="tabs-view" />
 
-This is caused by two factors: default IntelliJ's configuration
-and our usage.
+That kind of situation is caused by two factors: default IntelliJ's
+configuration and our usage.
 
 ### Default navigation with files' tabs
 By default, when we get our fresh IntelliJ installed, each file we open
@@ -37,18 +37,20 @@ in your editor's window and how to navigate without them.
 
 First of all, we start by opening `Settings` window (`CMD and ,` on Mac OS)
 and we type `placement` in the search box. If you followed
-the instructions you should be able to see the following image:
+the instructions you should be able to see the similar image to the
+one below:
 
 <img src="/images/blog/posts/know-your-intellij-no-tabs/settings-tabson.png" alt="no-tabs-view" />
 
-We need to change `Tab Appearance` -> `Placement` dropdown from `Top` to
-`None`. After the change, please click `Apply` and `OK` to close the
-placement settings. Your settings screen should look the same as in the
-image below, after applying changes to `Placement` dropdown.
+In the next step, we need to change `Tab Appearance` -> `Placement`
+dropdown from `Top` to `None`. After the change, please click `Apply`
+and `OK` to close the placement settings. Your settings screen should
+look the same as in the image below, after applying changes
+to `Placement` dropdown.
 
 <img src="/images/blog/posts/know-your-intellij-no-tabs/settings-tabsoff.png" alt="no-tabs-view" />
 
-As a result of settings change, we get editor's view without
+As a result of the settings change, we get editor's view without
 any files' tabs displaying on it. The image below presents the state
 after the changes are completed.
 
@@ -56,10 +58,10 @@ after the changes are completed.
 
 ### How to view the recent files?
 
-The answer is `CMD and E` on Mac OS, which presents the files we recently
-viewed and/or edited. With that shortkey, it is much easier to keep the
-no tabs editor view and still benefit from the list of files
-we worked on.
+The answer is `CMD and E` shortkey on Mac OS, which presents the files
+we recently viewed and/or edited. With that shortkey, it is much
+easier to keep the no tabs editor view and still benefit from
+the list of files we worked on.
 
 Below you can see the `Recent files` window which opens after `CMD and E`
 hit on your Mac.
